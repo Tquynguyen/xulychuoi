@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string.h>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-/* Viết chương trình nhập vào họ và tên của một người, cắt bỏ các khoảng trống không cần thiết (nếu có), tách tên ra  khỏi họ và tên, 
+/* Đê bai: Viết chương trình nhập vào họ và tên của một người, cắt bỏ các khoảng trống không cần thiết (nếu có), tách tên ra  khỏi họ và tên, 
 in tên và họ lên màn hình. Chú ý đến trường hợp cả họ và  tên chỉ có một 
 từ */
 
