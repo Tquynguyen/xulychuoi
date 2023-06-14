@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string.h>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/* De bai: Nhap vao thong tin sinh vien,so sinh vien; yeu cau xuat thong tin sinh vien ra man hinh va hien len bao nhieu nam, bao nhieu nu */
 using namespace std;
-
 bool Nam_Nu(char *str);	  
 int main(int argc, char** argv) {
 	int n; 
