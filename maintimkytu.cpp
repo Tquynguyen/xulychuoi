@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string.h>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-
+/* Tim ky tu o chuoi cho san*/
 using namespace std;
 int main(int argc, char** argv) {
 	char s1[25];
