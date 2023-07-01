@@ -2,7 +2,7 @@
 #include <algorithm>
 
 using namespace std;
-
+/* tim trung vi cua day so voi n phan tu cho truoc */
 double median(double arr[], int n)
 {
     sort(arr, arr + n);
