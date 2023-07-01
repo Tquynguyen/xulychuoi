@@ -16,23 +16,18 @@ double median(double arr[], int n)
         return arr[mid];
     }
 }
-
 int main()
 {
     int n;
     cout << "Nhap vao so phan tu cua day ";
     cin >> n;
-
     double arr[n];
     for (int i = 0; i < n; i++)
     {
         cout << "Phan tu " << i+1 << ": ";
         cin >> arr[i];
     }
-
     double med = median(arr, n);
     cout << "Trung vi cua day la: " << med << endl;
-
     return 0;
 }
-
